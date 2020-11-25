@@ -1,0 +1,239 @@
+  /* *{
+    border: 1px solid black;
+}       */
+nav{
+    padding: 10px;
+}
+header{
+    position: relative;
+}
+.fa-bars,
+.fa-youtube{
+    margin-left:10px;
+    margin: 7px;
+    font-size: x-large;
+    margin-top: 0px;
+}
+.s5{
+    position: relative;
+    right: 7px;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.s4,
+.s2{
+    color: red;  
+}
+.left-nav{
+    position: absolute;
+    left: 5px;
+}
+.center-nav{
+    position: relative;
+    margin-left: 300px;
+    height: 30px;
+}
+button{
+    position: relative;
+    right: 5px;
+    bottom: 1px;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid lightgrey;
+}
+
+input{
+    border: 1px solid lightgrey;
+}
+.fa-search{
+    padding: 0 15px;
+}
+.right-nav{
+    position: absolute;
+    right: 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+    margin-top: 0px;
+    font-size: x-large;   
+}
+.fa-bell,
+.fa-user-circle,
+.fa-th,
+.fa-video{  
+    margin: 7px;
+}
+.fa-keyboard{
+    position: absolute;
+    right: 70px;
+    margin-top: 7px;
+}
+.fa-search{
+    height: 20px;
+    margin-top: 6px; 
+}
+.mazgi{ 
+    border-radius: 1px;
+}
+.right2{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+    position: relative;
+    width: fit-content;
+    padding-top: 0px;
+} 
+.left2{
+    margin-left: 15px;
+}
+.san1{
+    position: absolute;
+    margin-top: 0px;
+    color: grey;
+}
+.san2{
+    position: absolute;
+    margin-left: 400px;
+    float: right;
+    width: fit-content;
+    padding-top: 0px;
+    color: grey;
+}
+.choco{
+    float: right;
+    width: fit-content;
+}
+.choco1{
+    width: fit-content;
+    width: 200px;
+    float: right;
+    margin-left: 8px; 
+    display: block;
+}
+.r1{
+    font-size: small;
+    font-family: sans-serif;
+    color: grey;
+}
+.m1{
+    background-color: red;
+    margin-left: 5px;
+    border-radius: 1px;
+}
+.m2{
+    position: relative;
+    right: 10px;
+    padding: 8px 5px 3px 0;
+    font-size: small;
+    border-radius: 1px;
+}
+.s3{
+    color: white;
+    font-size: large;
+    margin: 3px;
+}
+.jojo{
+    margin-left: 243px;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: grey;
+}
+.jo2{
+    margin-left: 320px; 
+}
+.jo4,
+.jo5,
+.jo6{
+    border-radius: 50%;
+    position: relative;
+}
+.d1,
+.d2,
+.d3{
+    position: relative;
+    left: 80px;
+    bottom:  60px;
+    font-family: sans-serif; 
+}
+.i1,
+.i2{
+    margin: 0 10px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: grey;
+}
+.sad{
+    position: relative; 
+    /* border: 1px solid red; */
+}
+div{
+    display: inline-block;
+    width:fit-content;
+    margin: 5px;
+}
+input{
+    width: 700px;
+    height: 26px;   
+}
+.s6{
+    margin-right: 600px;
+    text-decoration: none;
+}
+.jo3{
+    margin-left: 200px;
+}
+p{
+    width: fit-content;
+}
+.fa-thumbs-up,
+.fa-thumbs-down,
+.fa-plus,
+.fa-share,
+.fa-ellipsis-h{
+    margin: 7px;
+    font-size: x-large;
+}
+.mazgi2{
+    background-color: white;
+    border-color: white;    
+    color: grey;
+}
+.s4{
+    position: relative;
+    left: 7px;
+    font-size: xx-large;
+}
+.mazgi3{
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.g1{
+    border-radius: 1px;
+    margin: 10px;
+    padding: 10px;
+}
+.fa-chevron-down{
+    margin-left: 10px;
+}
+.fa-question,
+.fa-hourglass-end,
+.fa-question-circle{
+    margin-right: 5px;
+    color: grey;
+}
+.mazgi4,
+a:link{
+    text-decoration:none;
+    color: black;
+    margin: 5px;
+    padding: 1px;
+    font-family: sans-serif;
+}
+.mazgi5{
+    font-size: small;
+}
+li{
+    display: inline;
+}
+
+
