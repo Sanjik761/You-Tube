@@ -1,23 +1,24 @@
-  /* *{
+ /* *{
     border: 1px solid black;
-}       */
+}        */
 nav{
     padding: 10px;
 }
 header{
     position: relative;
+    background-color: white;
 }
 .fa-bars,
 .fa-youtube{
     margin-left:10px;
     margin: 7px;
-    font-size: x-large;
+    font-size: large;
     margin-top: 0px;
 }
 .s5{
     position: relative;
     right: 7px;
-    font-size: x-large;
+    font-size: large;
     font-family: sans-serif;
 }
 .s4,
@@ -53,7 +54,7 @@ input{
     padding-right: 5px;
     margin-right: 10px;
     margin-top: 0px;
-    font-size: x-large;   
+    font-size: large;   
 }
 .fa-bell,
 .fa-user-circle,
@@ -80,10 +81,11 @@ input{
     position: relative;
     width: fit-content;
     padding-top: 0px;
+   
 } 
 .left2{
     margin-left: 15px;
-}
+}    
 .san1{
     position: absolute;
     margin-top: 0px;
@@ -121,9 +123,12 @@ input{
 .m2{
     position: relative;
     right: 10px;
-    padding: 8px 5px 3px 0;
+    padding: 8px 12px 3px 1px;
     font-size: small;
     border-radius: 1px;
+}
+.son{
+    padding-left: 7px;
 }
 .s3{
     color: white;
@@ -131,10 +136,13 @@ input{
     margin: 3px;
 }
 .jojo{
-    margin-left: 243px;
+    margin-left: 300px;
     font-size: x-large;
     font-family: sans-serif;
     color: grey;
+    border-bottom:2px solid blue;
+    border-radius: 1px;
+    background-color: white;
 }
 .jo2{
     margin-left: 320px; 
@@ -191,7 +199,7 @@ p{
 .fa-share,
 .fa-ellipsis-h{
     margin: 7px;
-    font-size: x-large;
+    font-size: large;
 }
 .mazgi2{
     background-color: white;
@@ -201,7 +209,7 @@ p{
 .s4{
     position: relative;
     left: 7px;
-    font-size: xx-large;
+    font-size: x-large;
 }
 .mazgi3{
     font-family: sans-serif;
